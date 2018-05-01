@@ -1,0 +1,54 @@
+#about{
+    background-color:aliceblue;
+}
+
+
+.container {
+    text-align: justify;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+    width:100%;
+}
+.container>div {
+    width: 200px;
+    height: 200px;
+    vertical-align: top;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+  
+}
+span {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
+}
+
+#skill1{
+    background-color: antiquewhite;
+}
+#skill2{
+    background-color: beige;
+}
+
+#skill3{
+    background-color: bisque;
+}
+
+#skill4{
+    background-color: blanchedalmond;
+}
+
+#nav1{
+    color: blue;
+}
+#nav2{
+    color: red;
+}
+#nav3{
+    color:aqua;
+}
+#nav4{
+    color:forestgreen;
+}
