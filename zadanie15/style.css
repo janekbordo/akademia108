@@ -52,3 +52,21 @@ span {
 #nav4{
     color:forestgreen;
 }
+
+
+.pf{
+    border-style: solid;
+    border-color: blueviolet;
+    margin: 10px;
+}
+adress{
+    font-style: italic;
+    
+}
+
+#fbutton{
+    border: 1px solid darkred;
+    background-color: darkgreen;
+    color: white;
+    
+}
