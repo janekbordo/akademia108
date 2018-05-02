@@ -1,0 +1,21 @@
+body{
+    background-color: #ffe6cc;
+}
+h1{
+    text-align: left;
+    color: red;
+    margin-bottom: 30px;
+}
+
+.text{
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+#tred{
+    color: red;
+}
+
+#tblue{
+    color: blue;
+}
